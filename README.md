@@ -1,6 +1,6 @@
 # Hi, I'm Juan Cardena
 
-## Chief Data & AI Officer
+### Chief Data & AI Officer
 
 Building **AI systems that work**. 25 years turning raw data into intelligent systems.
 
@@ -10,7 +10,7 @@ Each era built on the last. Web taught reliability. Software taught scale. Data 
 
 ---
 
-### What I Build
+## What I Build
 
 | Capability | Description |
 |------------|-------------|
@@ -19,61 +19,36 @@ Each era built on the last. Web taught reliability. Software taught scale. Data 
 | **Document Intelligence** | Indexing, search, and knowledge retrieval |
 | **Business Visualization** | Interactive dashboards and 3D data views |
 
-See my work at [apps.jcardena.com](https://apps.jcardena.com)
+🔗 **See my work:** [apps.jcardena.com](https://apps.jcardena.com)
 
 ---
 
-### Core Skills
+## Core Skills
 
-**Programming**
-```
-Python • JavaScript • SQL • C# • Node.js • .NET
-```
+**Languages:** Python, JavaScript, SQL, C#, Node.js, .NET
 
-**Databases**
-```
-SQL Server • Oracle • PostgreSQL • MongoDB • Redis • DynamoDB
-```
+**Databases:** SQL Server, Oracle, PostgreSQL, MongoDB, Redis, DynamoDB
 
-**Cloud Databases**
-```
-Azure SQL • AWS RDS • AWS Aurora • AWS Redshift • Snowflake
-```
+**Cloud Databases:** Azure SQL, AWS RDS, AWS Aurora, AWS Redshift, Snowflake
 
-**AI & ML**
-```
-Multi-Agent Systems • RAG • LangGraph • MCP Protocol • MLflow • OpenAI
-```
+**AI & ML:** Multi-Agent Systems, RAG, LangGraph, MCP Protocol, MLflow, OpenAI
 
-**Data Engineering**
-```
-dbt • Airflow • ETL/ELT • AWS Athena • SSIS
-```
+**Data Engineering:** dbt, Airflow, ETL/ELT, AWS Athena, SSIS
 
-**Cloud & Infrastructure**
-```
-AWS • Azure • Docker • Kubernetes • Terraform
-```
+**Cloud & Infrastructure:** AWS, Azure, Docker, Kubernetes, Terraform
 
 ---
 
-### GitHub Stats
+## Let's Connect
 
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juancardena&show_icons=true&theme=default&hide_border=true)
+🌐 **Portfolio:** [jcardena.com](https://jcardena.com)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juancardena&layout=compact&hide_border=true)
+💻 **Live Demos:** [apps.jcardena.com](https://apps.jcardena.com)
+
+💼 **LinkedIn:** [linkedin.com/in/juancardena](https://linkedin.com/in/juancardena)
+
+📧 **Email:** juan@jcardena.com
 
 ---
 
-### Let's Connect
-
-- **Portfolio:** [jcardena.com](https://jcardena.com)
-- - **Live Demos:** [apps.jcardena.com](https://apps.jcardena.com)
-  - - **LinkedIn:** [/in/juancardena](https://linkedin.com/in/juancardena)
-    - - **Email:** juan@jcardena.com
-     
-      - ---
-
-      <p align="center">
-        <i>Every day we make things better.</i>i>
-      </p>p></i>
+*Every day we make things better.*
