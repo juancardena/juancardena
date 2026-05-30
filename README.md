@@ -1,7 +1,5 @@
 # Hi, I'm Juan Cardena
 
-### Chief Data & AI Officer
-
 Building **AI systems that work**. 25 years turning raw data into intelligent systems.
 
 **Web → Software → Data → AI**
