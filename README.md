@@ -43,6 +43,8 @@ Each era built on the last. Web taught reliability. Software taught scale. Data 
 
 💻 **Live Demos:** [apps.jcardena.com](https://apps.jcardena.com)
 
+💻 **Blog:** [blog.jcardena.com](https://blog.jcardena.com)
+
 💼 **LinkedIn:** [linkedin.com/in/juancardena](https://linkedin.com/in/juancardena)
 
 📧 **Email:** juan@jcardena.com
